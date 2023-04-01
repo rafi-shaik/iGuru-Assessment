@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.main-container {
+    border: 1px solid #000000;
+    width: 100vw;
+    border-bottom: none;
+}
+
+.table {
+    width: 100%;
+    background: #000000;
+}
+
+.school-details {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000000;
+}
+
+.student-details {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.student {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 2px;
+}
+
+.header-class {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.details-con {
+    text-align: center;
+}
+
+.school-name {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 11px;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.sub-heading {
+    font-family: "Roboto";
+    font-size: 11px;
+    font-weight: 900;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.col-value {
+    text-align: center;
+    font-size: 12px;
+     font-family: "Roboto";
+    font-weight: normal;
+    background: #ffffff;
+}
+
+.col-value-bold {
+    background: #ffffff;
+    text-align: center;
+    font-weight: bold;
+     font-family: "Roboto";
+}
+
+.table-heading {
+     font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+    background: #ffffff;
+}
+
+.tables-con {
+    display: flex;
+}
+
+.result {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.result-status {
+    display: flex;
+    justify-content: space-around;
+}
+
