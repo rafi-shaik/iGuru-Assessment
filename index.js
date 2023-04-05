@@ -22,8 +22,9 @@ header.classList.add("header-class");
 mainContainer.appendChild(header);
 
 const logo = document.createElement("img");
-logo.setAttribute("src", "");
+logo.setAttribute("src", "https://res.cloudinary.com/dzvmpn4nr/image/upload/v1680687733/5a2954f3b7ba56.5614197015126581637526_pjo4td.png");
 logo.setAttribute("alt", "school logo");
+logo.classList.add("school-logo");
 header.appendChild(logo);
 
 const schoolDetails = document.createElement("div");

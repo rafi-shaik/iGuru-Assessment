@@ -17,7 +17,7 @@ dt {
     display: inline-block;
     font-family: "Roboto";
     font-weight: bold;
-    font-size: 12px;
+    font-size: 14px;
     color: black;
 }
 
@@ -27,7 +27,7 @@ dd {
     display: inline-block;
     font-family: "Roboto";
     font-weight: bold;
-    font-size: 12px;
+    font-size: 13px;
     color: black;
 }
 
@@ -40,7 +40,7 @@ dd {
 
 .school-details {
     padding-bottom: 10px;
-    border-bottom: 1px solid #000000;
+    border: 1px solid #000000;
 }
 
 .student-details {
@@ -134,3 +134,7 @@ dd {
      border-top: 0;
 }
 
+.school-logo {
+    width: 130px;
+    margin-left: 35px;
+}
